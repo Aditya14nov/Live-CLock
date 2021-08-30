@@ -1,0 +1,23 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+}
+body{
+    background-image: url('morning.jpg');
+    background-size: cover;
+}
+.container{
+    padding: 40px;
+    margin-top: 80px;
+    background-color: rgba(255, 255, 255, 0.603);
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0,0, 0.6);
+    border-radius: 10px;
+}
+.quote{
+    font-size: 20px;
+    font-style: italic;
+}
